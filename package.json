@@ -1,0 +1,14 @@
+{
+  "name": "JaxxBot",
+  "description": "A Discord bot coded in Discord.JS, hosted using Heroku.",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "eris": "0.8.6",
+    "request": "2.81.0"
+  }
+}
